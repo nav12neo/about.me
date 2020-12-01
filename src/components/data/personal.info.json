@@ -1,0 +1,63 @@
+{
+    "skills": [
+        {
+            "name" : "HTML / CSS / XHTML / XSLT/ XML",
+            "level" : "expertise"
+        },
+        {
+            "name" : "Agile Methodologies",
+            "level" : "expertise"
+        },
+        {
+            "name" : "AngularJS and Angular",
+            "level" : "expertise"
+        },
+        {
+            "name" : "JavaScript, OOJS, JQuery",
+            "level" : "expertise"
+        },
+        {
+            "name" : "D3, Highcharts, xterm.js",
+            "level" : "skillful"
+        },
+        {
+            "name" : "ES6 and TypeScript",
+            "level" : "expertise"
+        },
+        {
+            "name" : "npm, gulp, webpack",
+            "level" : "expertise"
+        },
+        {
+            "name" : "Git, Perforce",
+            "level" : "expertise"
+        },
+        {
+            "name" : "Micro Frontend, SPA",
+            "level" : "expertise"
+        },
+        {
+            "name" : "REST, WebSocket",
+            "level" : "expertise"
+        },
+        {
+            "name" : "Jasmine / Karma, Unit Testing",
+            "level" : "expertise"
+        },
+        {
+            "name" : "Data Structures / Algorithms",
+            "level" : "skillful"
+        },
+        {
+            "name" : "Java / Spring",
+            "level" : "beginner"
+        }
+    ],
+    "hobbies" : [
+        "Learning new things",
+        "Cricket",
+        "Table-Tennis", 
+        "Squash", 
+        "Travelling"
+    ]
+}
